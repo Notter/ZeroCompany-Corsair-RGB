@@ -1,0 +1,15 @@
+Corsair RGB Keyboard Integration - Star Wars Zero Company
+
+This is an unofficial community mod, not an official Corsair, Star Wars,
+Lucasfilm, Electronic Arts or Bit Reactor product.
+
+Bundled third-party runtime: Corsair iCUE SDK 4.0.84,
+iCUESDK.x64_2019.dll, distributed unchanged from Corsair's redist directory.
+Official source: https://github.com/CorsairOfficial/cue-sdk/releases/tag/v4.0.84
+The accompanying Corsair-iCUE-SDK-Reference-and-EULA.pdf is the original SDK
+documentation and contains Corsair's End User License Agreement.
+Corsair's runtime remains subject to its own terms.
+
+UE4SS and the game-specific UE4SS loader are separate dependencies and are
+not included. Game files, test runtimes, captures and saved-game data are
+not included.
